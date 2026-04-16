@@ -209,6 +209,7 @@ print(res["DET"])
 print(res["SEG"])
 print(res["TRA"])
 ...
+```
 
 ## 4. Multibidirectional path extension tracking method
 
@@ -221,7 +222,6 @@ print(res["TRA"])
 **i) Time Window Selection**
 ```python
 time_window_selection.ipynb
-```
 **ii) Cross Validation, Hold Out, Independent Test**
 ```python
 cross_validation.ipynb
