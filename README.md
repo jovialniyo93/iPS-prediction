@@ -211,7 +211,7 @@ print(res["TRA"])
 ...
 ```
 
-## 4. Multibidirectional path extension tracking method
+## 4. Multi-algorithm bidirectional path extension tracking method
 
 ```track_label``` folder contains all scripts used to create the tracking model.
 
