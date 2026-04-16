@@ -1,0 +1,45 @@
+name: transdeepseg
+channels:
+  - pytorch
+  - conda-forge
+  - anaconda
+dependencies:
+  - cudnn
+  - cudatoolkit=11.2
+  - cvxopt
+  - cython
+  - graphviz
+  - ipython
+  - mahotas
+  - matplotlib
+  - numpy>=1.19.5
+  - opencv-python>=4.5.1.48
+  - pandas
+  - Pillow>=8.1.0
+  - pydot
+  - pyqt
+  - pytest
+  - python=3.11
+  - python-graphviz
+  - pytorch=1.6
+  - scikit-image
+  - scipy
+  - tensorboardx
+  - tqdm>=4.56.0
+  - typing>=3.7.4.3
+  - imageio
+  - seaborn
+  - tifffile
+  - torch>=1.7.1
+  - torchvision>=0.8.2
+  - pip 
+  - imageio 
+  - scikit-image>=0.17.2
+  - imagecodecs
+  - munkres>=1.1.4
+  - pandas
+  - scipy>=1.3.3
+
+ 
+
+ 

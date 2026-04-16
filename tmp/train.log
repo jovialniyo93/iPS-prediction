@@ -1,0 +1,115 @@
+2025-06-09 10:00:52,224 - >>>> image size=(256,256) , learning rate=0.000100 , batch size=4
+2025-06-09 10:00:53,062 - >>>> Start training
+2025-06-09 10:01:05,653 - >>>> Epoch:0  , loss=0.749471 , valid score=0.687983
+2025-06-09 10:01:18,078 - >>>> Epoch:1  , loss=0.511026 , valid score=0.704515 , avg precision=0.437032
+2025-06-09 10:01:18,079 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:01:32,461 - >>>> Epoch:2  , loss=0.426455 , valid score=0.734985
+2025-06-09 10:01:45,283 - >>>> Epoch:3  , loss=0.380585 , valid score=0.773111 , avg precision=0.546842
+2025-06-09 10:01:45,284 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:01:59,410 - >>>> Epoch:4  , loss=0.318890 , valid score=0.807627
+2025-06-09 10:02:11,640 - >>>> Epoch:5  , loss=0.268088 , valid score=0.806969 , avg precision=0.664380
+2025-06-09 10:02:11,641 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:02:26,521 - >>>> Epoch:6  , loss=0.214685 , valid score=0.858030
+2025-06-09 10:02:39,119 - >>>> Epoch:7  , loss=0.199376 , valid score=0.833937 , avg precision=0.635305
+2025-06-09 10:02:50,234 - >>>> Epoch:8  , loss=0.171828 , valid score=0.799157
+2025-06-09 10:03:03,092 - >>>> Epoch:9  , loss=0.170775 , valid score=0.792125 , avg precision=0.561085
+2025-06-09 10:03:14,235 - >>>> Epoch:10  , loss=0.143973 , valid score=0.851664
+2025-06-09 10:03:26,852 - >>>> Epoch:11  , loss=0.133010 , valid score=0.849091 , avg precision=0.607744
+2025-06-09 10:03:37,791 - >>>> Epoch:12  , loss=0.127398 , valid score=0.846190
+2025-06-09 10:03:50,813 - >>>> Epoch:13  , loss=0.126648 , valid score=0.800088 , avg precision=0.568471
+2025-06-09 10:04:01,599 - >>>> Epoch:14  , loss=0.116943 , valid score=0.850196
+2025-06-09 10:04:15,175 - >>>> Epoch:15  , loss=0.110306 , valid score=0.854321 , avg precision=0.720411
+2025-06-09 10:04:15,176 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:04:29,988 - >>>> Epoch:16  , loss=0.118333 , valid score=0.792149
+2025-06-09 10:04:42,537 - >>>> Epoch:17  , loss=0.112859 , valid score=0.861565 , avg precision=0.590028
+2025-06-09 10:04:53,630 - >>>> Epoch:18  , loss=0.106894 , valid score=0.852279
+2025-06-09 10:05:07,327 - >>>> Epoch:19  , loss=0.102489 , valid score=0.806465 , avg precision=0.662221
+2025-06-09 10:05:19,196 - >>>> Epoch:20  , loss=0.114752 , valid score=0.830468
+2025-06-09 10:05:31,564 - >>>> Epoch:21  , loss=0.103951 , valid score=0.690102 , avg precision=0.532614
+2025-06-09 10:05:42,930 - >>>> Epoch:22  , loss=0.105222 , valid score=0.865431
+2025-06-09 10:05:55,486 - >>>> Epoch:23  , loss=0.099751 , valid score=0.873797 , avg precision=0.747048
+2025-06-09 10:05:55,487 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:06:10,011 - >>>> Epoch:24  , loss=0.096130 , valid score=0.852950
+2025-06-09 10:06:22,431 - >>>> Epoch:25  , loss=0.104287 , valid score=0.858827 , avg precision=0.715750
+2025-06-09 10:06:34,114 - >>>> Epoch:26  , loss=0.091282 , valid score=0.843076
+2025-06-09 10:06:46,855 - >>>> Epoch:27  , loss=0.101536 , valid score=0.844022 , avg precision=0.732605
+2025-06-09 10:06:58,093 - >>>> Epoch:28  , loss=0.093617 , valid score=0.862798
+2025-06-09 10:07:10,609 - >>>> Epoch:29  , loss=0.090143 , valid score=0.870691 , avg precision=0.788331
+2025-06-09 10:07:10,610 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:07:25,830 - >>>> Epoch:30  , loss=0.098403 , valid score=0.854760
+2025-06-09 10:07:38,657 - >>>> Epoch:31  , loss=0.089525 , valid score=0.869185 , avg precision=0.778162
+2025-06-09 10:07:49,800 - >>>> Epoch:32  , loss=0.090192 , valid score=0.419482
+2025-06-09 10:08:02,195 - >>>> Epoch:33  , loss=0.097141 , valid score=0.879241 , avg precision=0.785255
+2025-06-09 10:08:13,625 - >>>> Epoch:34  , loss=0.094180 , valid score=0.880973
+2025-06-09 10:08:26,482 - >>>> Epoch:35  , loss=0.085749 , valid score=0.819337 , avg precision=0.682399
+2025-06-09 10:08:37,776 - >>>> Epoch:36  , loss=0.090062 , valid score=0.887324
+2025-06-09 10:08:50,605 - >>>> Epoch:37  , loss=0.086834 , valid score=0.759223 , avg precision=0.571271
+2025-06-09 10:09:01,916 - >>>> Epoch:38  , loss=0.093500 , valid score=0.808391
+2025-06-09 10:09:14,336 - >>>> Epoch:39  , loss=0.089975 , valid score=0.868421 , avg precision=0.753636
+2025-06-09 10:09:25,545 - >>>> Epoch:40  , loss=0.088838 , valid score=0.897042
+2025-06-09 10:09:37,859 - >>>> Epoch:41  , loss=0.088353 , valid score=0.916802 , avg precision=0.871299
+2025-06-09 10:09:37,860 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:09:52,149 - >>>> Epoch:42  , loss=0.081902 , valid score=0.898610
+2025-06-09 10:10:04,758 - >>>> Epoch:43  , loss=0.080039 , valid score=0.866060 , avg precision=0.746002
+2025-06-09 10:10:16,102 - >>>> Epoch:44  , loss=0.081623 , valid score=0.854240
+2025-06-09 10:10:28,524 - >>>> Epoch:45  , loss=0.082465 , valid score=0.877043 , avg precision=0.748773
+2025-06-09 10:10:39,921 - >>>> Epoch:46  , loss=0.080823 , valid score=0.816452
+2025-06-09 10:10:52,546 - >>>> Epoch:47  , loss=0.081783 , valid score=0.885683 , avg precision=0.808859
+2025-06-09 10:11:03,796 - >>>> Epoch:48  , loss=0.076309 , valid score=0.794986
+2025-06-09 10:11:16,795 - >>>> Epoch:49  , loss=0.079284 , valid score=0.877579 , avg precision=0.710955
+2025-06-09 10:11:27,783 - >>>> Epoch:50  , loss=0.081131 , valid score=0.894938
+2025-06-09 10:11:40,253 - >>>> Epoch:51  , loss=0.076200 , valid score=0.347728 , avg precision=0.297670
+2025-06-09 10:11:51,286 - >>>> Epoch:52  , loss=0.081775 , valid score=0.905188
+2025-06-09 10:12:04,116 - >>>> Epoch:53  , loss=0.077272 , valid score=0.903868 , avg precision=0.801498
+2025-06-09 10:12:15,237 - >>>> Epoch:54  , loss=0.079709 , valid score=0.867600
+2025-06-09 10:12:27,582 - >>>> Epoch:55  , loss=0.074263 , valid score=0.886557 , avg precision=0.805111
+2025-06-09 10:12:38,775 - >>>> Epoch:56  , loss=0.079016 , valid score=0.890573
+2025-06-09 10:12:51,669 - >>>> Epoch:57  , loss=0.073613 , valid score=0.569072 , avg precision=0.489766
+2025-06-09 10:13:02,971 - >>>> Epoch:58  , loss=0.075790 , valid score=0.906617
+2025-06-09 10:13:15,246 - >>>> Epoch:59  , loss=0.074553 , valid score=0.708936 , avg precision=0.591651
+2025-06-09 10:13:26,422 - >>>> Epoch:60  , loss=0.074124 , valid score=0.866994
+2025-06-09 10:13:39,873 - >>>> Epoch:61  , loss=0.072017 , valid score=0.901677 , avg precision=0.772203
+2025-06-09 10:13:50,787 - >>>> Epoch:62  , loss=0.069585 , valid score=0.878467
+2025-06-09 10:14:03,151 - >>>> Epoch:63  , loss=0.075737 , valid score=0.910817 , avg precision=0.833887
+2025-06-09 10:14:14,462 - >>>> Epoch:64  , loss=0.068938 , valid score=0.919891
+2025-06-09 10:14:26,735 - >>>> Epoch:65  , loss=0.065520 , valid score=0.903056 , avg precision=0.805139
+2025-06-09 10:14:37,780 - >>>> Epoch:66  , loss=0.070675 , valid score=0.640364
+2025-06-09 10:14:50,280 - >>>> Epoch:67  , loss=0.070026 , valid score=0.870508 , avg precision=0.877454
+2025-06-09 10:14:50,282 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:15:04,938 - >>>> Epoch:68  , loss=0.077456 , valid score=0.918781
+2025-06-09 10:15:17,344 - >>>> Epoch:69  , loss=0.066861 , valid score=0.893728 , avg precision=0.784422
+2025-06-09 10:15:28,232 - >>>> Epoch:70  , loss=0.067040 , valid score=0.899243
+2025-06-09 10:15:40,558 - >>>> Epoch:71  , loss=0.063216 , valid score=0.882200 , avg precision=0.757073
+2025-06-09 10:15:51,640 - >>>> Epoch:72  , loss=0.068985 , valid score=0.848725
+2025-06-09 10:16:04,690 - >>>> Epoch:73  , loss=0.061394 , valid score=0.901849 , avg precision=0.808793
+2025-06-09 10:16:15,476 - >>>> Epoch:74  , loss=0.065905 , valid score=0.920183
+2025-06-09 10:16:27,597 - >>>> Epoch:75  , loss=0.063426 , valid score=0.934318 , avg precision=0.886615
+2025-06-09 10:16:27,598 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:16:42,083 - >>>> Epoch:76  , loss=0.061824 , valid score=0.908919
+2025-06-09 10:16:54,840 - >>>> Epoch:77  , loss=0.063647 , valid score=0.913025 , avg precision=0.859557
+2025-06-09 10:17:06,105 - >>>> Epoch:78  , loss=0.065499 , valid score=0.908966
+2025-06-09 10:17:18,579 - >>>> Epoch:79  , loss=0.063342 , valid score=0.910926 , avg precision=0.869174
+2025-06-09 10:17:29,563 - >>>> Epoch:80  , loss=0.062081 , valid score=0.936721
+2025-06-09 10:17:42,234 - >>>> Epoch:81  , loss=0.059102 , valid score=0.926536 , avg precision=0.881731
+2025-06-09 10:17:53,353 - >>>> Epoch:82  , loss=0.060637 , valid score=0.910756
+2025-06-09 10:18:05,767 - >>>> Epoch:83  , loss=0.054881 , valid score=0.934158 , avg precision=0.888270
+2025-06-09 10:18:05,768 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:18:20,879 - >>>> Epoch:84  , loss=0.057752 , valid score=0.923173
+2025-06-09 10:18:33,209 - >>>> Epoch:85  , loss=0.055642 , valid score=0.918741 , avg precision=0.845129
+2025-06-09 10:18:44,251 - >>>> Epoch:86  , loss=0.059515 , valid score=0.835171
+2025-06-09 10:18:56,696 - >>>> Epoch:87  , loss=0.055063 , valid score=0.920334 , avg precision=0.863470
+2025-06-09 10:19:08,131 - >>>> Epoch:88  , loss=0.052384 , valid score=0.903344
+2025-06-09 10:19:21,307 - >>>> Epoch:89  , loss=0.058100 , valid score=0.924355 , avg precision=0.901471
+2025-06-09 10:19:21,309 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:19:35,587 - >>>> Epoch:90  , loss=0.061094 , valid score=0.923938
+2025-06-09 10:19:48,403 - >>>> Epoch:91  , loss=0.054394 , valid score=0.944066 , avg precision=0.911477
+2025-06-09 10:19:48,404 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:20:03,339 - >>>> Epoch:92  , loss=0.054337 , valid score=0.938785
+2025-06-09 10:20:16,115 - >>>> Epoch:93  , loss=0.054888 , valid score=0.935032 , avg precision=0.924999
+2025-06-09 10:20:16,117 - >>>> Save the model checkpoint to tmp/segmentation.pth
+2025-06-09 10:20:31,106 - >>>> Epoch:94  , loss=0.057708 , valid score=0.936191
+2025-06-09 10:20:43,766 - >>>> Epoch:95  , loss=0.056228 , valid score=0.930787 , avg precision=0.864686
+2025-06-09 10:20:54,781 - >>>> Epoch:96  , loss=0.053869 , valid score=0.947091
+2025-06-09 10:21:07,519 - >>>> Epoch:97  , loss=0.049900 , valid score=0.931500 , avg precision=0.868018
+2025-06-09 10:21:18,694 - >>>> Epoch:98  , loss=0.055842 , valid score=0.936716
+2025-06-09 10:21:31,358 - >>>> Epoch:99  , loss=0.049614 , valid score=0.923829 , avg precision=0.850652
