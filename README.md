@@ -46,8 +46,8 @@ conda activate iPS-prediction_ve
 ```
 ## Dataset
 
-**  We've opened up our iPS prediction dataset! [iPS-Dataset](https://drive.google.com/drive/folders/1KRuJXnn7UEZPGjZIT-1skhRInk2pKOws?usp=sharing), download the data and place it inside ```consensus``` folder.	
-** For all procedures for data preparation you can use this link:**[Click Here](https://github.com/jovialniyo93/cell-detection-and-tracking)**
+We've opened up our iPS prediction dataset! [iPS-Dataset](https://drive.google.com/drive/folders/1KRuJXnn7UEZPGjZIT-1skhRInk2pKOws?usp=sharing), download the data and place it inside ```consensus``` folder.	
+For all procedures for data preparation you can use this link:**[Click Here](https://github.com/jovialniyo93/cell-detection-and-tracking)**
 
 
 # How to train and test our model
